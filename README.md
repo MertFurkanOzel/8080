@@ -7,5 +7,5 @@ The blocks transform to the next one based on their values if at least three blo
 The objective of the game is to continuously clear and replace blocks to make room for new ones. It requires a combination of puzzle-solving skills and strategic thinking to maximize your score and keep the game going. The challenge lies in efficiently managing the available space on the grid and making strategic decisions on when to merge blocks. Enjoy the thrill of breaking and replacing blocks as you aim for higher scores and a more organized grid.
 
 ## In-Game Screenshot
-<img src="1.jpg" alt="Açıklama" width="500" height="800">
+<img src="Assets/1.jpg" alt="Açıklama" width="500" height="800">
 
